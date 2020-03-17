@@ -9,6 +9,15 @@ public class TestGit {
     private  String QWQ;
     private  String OMO;
     private String yyy;
+
+    public String getPull() {
+        return pull;
+    }
+
+    public void setPull(String pull) {
+        this.pull = pull;
+    }
+
     private String pull;
 
     public String getTest() {
